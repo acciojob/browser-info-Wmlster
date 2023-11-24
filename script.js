@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let div=document.CreateElement("div");
+let div=document.createElement("div");
 div.id="browser-info";
 
 document.body.append(div);
